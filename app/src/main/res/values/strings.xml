@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Loft9</string>
+    <string name="title_activity_navi_page">Loft 9 Experience</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Developer Page</string>
+</resources>
